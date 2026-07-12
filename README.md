@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/THECODEZON/Leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0704-binary-search](https://github.com/THECODEZON/Leetcode-solution/tree/master/0704-binary-search) |
 | [2965-find-missing-and-repeated-values](https://github.com/THECODEZON/Leetcode-solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/THECODEZON/Leetcode-solution/tree/master/2965-find-missing-and-repeated-values) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/THECODEZON/Leetcode-solution/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
